@@ -1,0 +1,43 @@
+body{
+    padding-top: 10%;
+    background-color: rgb(98, 154, 82);
+}
+
+#main-container{
+    text-align: center;
+}
+
+#heading{
+    color:rgb(2, 27, 157);
+    font-size: 40px;
+}
+
+#inputANDtext{
+    display: flex;
+    justify-content: center;
+}
+
+#timeCount{
+    width: 130px;
+    height: 30px;
+    font-size: medium;
+    margin-top: 8px;
+    color: rgb(177, 5, 215);
+}
+
+#text{
+    font-size: larger;
+    color: rgb(253, 240, 0);
+}
+
+#current-time{
+    color: rgb(124, 11, 161);
+    color: rgb(247, 244, 248);
+    font-size: 90px;
+    padding: 5px;
+}
+    
+#info{
+    color: rgb(249, 196, 5);
+    margin-top: 0px;
+}
